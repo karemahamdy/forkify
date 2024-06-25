@@ -1,7 +1,7 @@
 'use strict'
 import icons from "../img/icons.svg";
-import "core-js/stable";
-import "regenerator-runtime/runtime";
+// import "core-js/stable";
+// import "regenerator-runtime/runtime";
 
 let recipeContainer = document.querySelector('.recipe')
 
@@ -14,14 +14,14 @@ const loader = function(parentEl) {
           </svg>
         </div> 
   `
-  parentEl.innerHTML = ''
+  parentEl.innerHTML = '';
   parentEl.insertAdjacentHTML('afterbegin', markUp)
 }
 const shpwRecipe = async function() {
   loader(recipeContainer)
   // fetch api
   try {
-const res = await fetch("https://forkify-api.herokuapp.com/api/v2/recipes/5ed6604591c37cdc054bc886"); 
+const res = await fetch("https://forkify-api.herokuapp.com/api/v2/recipes/664c8f193e7aa067e94e8454"); 
  console.log(res);
  const data = await res.json(res)
  console.log(data);
@@ -125,13 +125,13 @@ const res = await fetch("https://forkify-api.herokuapp.com/api/v2/recipes/5ed660
           >
             <span>Directions</span>
             <svg class="search__icon">
-              <use href="${icons}#icon-arrow-right"></use>
+              <use href="src/img/icons.svg#icon-arrow-right"></use>
             </svg>
           </a>
         </div>
       
   ` 
-  console.log(recipeContainer)
+  recipeContainer.innerHTML = '';
   recipeContainer.insertAdjacentHTML('afterbegin', markUp)
 } catch (err) {
   console.log(err)
