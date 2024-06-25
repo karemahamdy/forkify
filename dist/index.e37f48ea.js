@@ -603,11 +603,14 @@ const loader = function(parentEl) {
     parentEl.innerHTML = "";
     parentEl.insertAdjacentHTML("afterbegin", markUp);
 };
-const shpwRecipe = async function() {
+const showRecipe = async function() {
     loader(recipeContainer);
     // fetch api
     try {
-        const res = await fetch("https://forkify-api.herokuapp.com/api/v2/recipes/664c8f193e7aa067e94e8454");
+        // const id = window.location.hash.slice(1)
+        // if (!id) return;
+        // const res = await fetch(`https://forkify-api.herokuapp.com/api/v2/recipes/${id}`); 
+        const res = await fetch("https://forkify-api.herokuapp.com/api/v2/recipes/5ed6604591c37cdc054bc886");
         console.log(res);
         const data = await res.json(res);
         console.log(data);
@@ -721,7 +724,9 @@ const shpwRecipe = async function() {
         console.log(err);
     }
 };
-shpwRecipe();
+showRecipe();
+window.addEventListener("hashchange", showRecipe);
+window.addEventListener("load", showRecipe);
 
 },{"../img/icons.svg":"cMpiy","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"cMpiy":[function(require,module,exports) {
 module.exports = require("17cff2908589362b").getBundleURL("hWUTQ") + "icons.21bad73c.svg" + "?" + Date.now();

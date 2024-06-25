@@ -36,7 +36,7 @@
 59C:\Users\RTXeg\Desktop\pizza\node_modules\readdirp\index.js133637742770960234 0
 65C:\Users\RTXeg\Desktop\pizza\node_modules\@parcel\optimizer-image133637741572819328 1
 65C:\Users\RTXeg\Desktop\pizza\node_modules\semver\functions\neq.js133637741579122465 0
-33C:\Users\RTXeg\Desktop\pizza\dist133637981654073527 1
+33C:\Users\RTXeg\Desktop\pizza\dist133638003909382932 1
 68C:\Users\RTXeg\Desktop\pizza\node_modules\core-js\full\math\expm1.js133637954033828992 0
 83C:\Users\RTXeg\Desktop\pizza\node_modules\core-js\internals\object-is-extensible.js133637954057335601 0
 66C:\Users\RTXeg\Desktop\pizza\node_modules\abortcontroller-polyfill133637741576768757 1
@@ -193,7 +193,7 @@
 82C:\Users\RTXeg\Desktop\pizza\node_modules\core-js\proposals\promise-all-settled.js133637954059449922 0
 74C:\Users\RTXeg\Desktop\pizza\node_modules\term-size\vendor\macos\.DS_Store133637741572569990 0
 75C:\Users\RTXeg\Desktop\pizza\node_modules\htmlparser2\lib\WritableStream.js133637741574813998 0
-49C:\Users\RTXeg\Desktop\pizza\src\js\controller.js133637981653631091 0
+49C:\Users\RTXeg\Desktop\pizza\src\js\controller.js133638003908998596 0
 65C:\Users\RTXeg\Desktop\pizza\node_modules\ordered-binary\index.js133637741573657088 0
 77C:\Users\RTXeg\Desktop\pizza\node_modules\core-js\features\string\iterator.js133637954049842619 0
 84C:\Users\RTXeg\Desktop\pizza\node_modules\core-js\internals\to-string-tag-support.js133637954070212895 0
@@ -4401,7 +4401,7 @@
 106C:\Users\RTXeg\Desktop\pizza\node_modules\css-select\node_modules\entities\lib\esm\decode_codepoint.js.map133637741578713565 0
 84C:\Users\RTXeg\Desktop\pizza\node_modules\@parcel\transformer-babel\lib\constants.js133637741576000815 0
 94C:\Users\RTXeg\Desktop\pizza\node_modules\css-select\node_modules\entities\lib\esm\encode.d.ts133637741581974839 0
-55C:\Users\RTXeg\Desktop\pizza\dist\index.e37f48ea.js.map133637981654063549 0
+55C:\Users\RTXeg\Desktop\pizza\dist\index.e37f48ea.js.map133638003909372955 0
 77C:\Users\RTXeg\Desktop\pizza\node_modules\@swc\helpers\cjs\_object_spread.cjs133637741581984810 0
 71C:\Users\RTXeg\Desktop\pizza\node_modules\@parcel\watcher\index.js.flow133637741572350579 0
 98C:\Users\RTXeg\Desktop\pizza\node_modules\css-select\node_modules\entities\lib\esm\encode.d.ts.map133637741580409018 0
@@ -7549,7 +7549,7 @@
 74C:\Users\RTXeg\Desktop\pizza\node_modules\core-js\actual\number\epsilon.js133637954023929579 0
 69C:\Users\RTXeg\Desktop\pizza\node_modules\@parcel\transformer-postcss133637741575950948 1
 83C:\Users\RTXeg\Desktop\pizza\node_modules\core-js\actual\number\max-safe-integer.js133637954055559967 0
-54C:\Users\RTXeg\Desktop\pizza\dist\favicon.8b2f57bf.png133637979226810199 0
+54C:\Users\RTXeg\Desktop\pizza\dist\favicon.8b2f57bf.png133638002744845010 0
 78C:\Users\RTXeg\Desktop\pizza\node_modules\core-js\actual\number\parse-float.js133637954058671987 0
 89C:\Users\RTXeg\Desktop\pizza\node_modules\caniuse-lite\data\features\css-width-stretch.js133637741587150983 0
 75C:\Users\RTXeg\Desktop\pizza\node_modules\core-js\actual\number\to-fixed.js133637954068800159 0
@@ -9678,8 +9678,8 @@
 55C:\Users\RTXeg\Desktop\pizza\dist\index.62406edb.js.map133637938983666264 0
 51C:\Users\RTXeg\Desktop\pizza\dist\pizza.3464ddca.js133637937818471469 0
 55C:\Users\RTXeg\Desktop\pizza\dist\pizza.3464ddca.js.map133637937818571205 0
-52C:\Users\RTXeg\Desktop\pizza\dist\index.f7626f62.css133637979226820176 0
-52C:\Users\RTXeg\Desktop\pizza\dist\icons.21bad73c.svg133637979226840116 0
-51C:\Users\RTXeg\Desktop\pizza\dist\logo.726d37a8.png133637979226850101 0
-56C:\Users\RTXeg\Desktop\pizza\dist\index.f7626f62.css.map133637979226949846 0
-51C:\Users\RTXeg\Desktop\pizza\dist\index.e37f48ea.js133637981654023655 0
+52C:\Users\RTXeg\Desktop\pizza\dist\icons.21bad73c.svg133638002744815125 0
+52C:\Users\RTXeg\Desktop\pizza\dist\index.f7626f62.css133638002744845010 0
+51C:\Users\RTXeg\Desktop\pizza\dist\logo.726d37a8.png133638002744845010 0
+56C:\Users\RTXeg\Desktop\pizza\dist\index.f7626f62.css.map133638002744894872 0
+51C:\Users\RTXeg\Desktop\pizza\dist\index.e37f48ea.js133638003909333072 0
